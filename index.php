@@ -1,1 +1,2 @@
-Hello, Hexlet!
+<?php>
+Hello, Hexlet
